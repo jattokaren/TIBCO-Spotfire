@@ -25,7 +25,7 @@ Inline code for R / TERR Script
 let num = Math.random():
 '''
 
-![image to show][http://picsum.photos/200/200)
+![Example Image of my Spotfire Utilization Template](https://github.com/jattokaren/TIBCO-Spotfire/Images for GitHub/1001307 - Atrius Health 2020-06-02.png)
 
 Block Code
 Tables
